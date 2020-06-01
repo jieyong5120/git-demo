@@ -1,0 +1,54 @@
+import Vue from 'vue';
+import {
+  Button,
+  NavBar,
+  Tabbar,
+  TabbarItem,
+  Swipe,
+  SwipeItem,
+  Grid,
+  GridItem,
+  Lazyload,
+  Image,
+  Loading,
+  Card,
+  Divider,
+  Panel,
+  Field,
+  CellGroup,
+  Tab,
+  Tabs,
+  List,
+  Cell,
+  Tag,
+  Stepper,
+  GoodsAction,
+  GoodsActionIcon,
+  GoodsActionButton
+} from 'vant';
+
+Vue.use(Button);
+Vue.use(NavBar);
+Vue.use(Tabbar);
+Vue.use(TabbarItem);
+Vue.use(Swipe);
+Vue.use(SwipeItem);
+Vue.use(Grid);
+Vue.use(GridItem);
+Vue.use(Lazyload);
+Vue.use(Image);
+Vue.use(Loading);
+Vue.use(Card);
+Vue.use(Divider);
+Vue.use(Panel);
+Vue.use(Field);
+Vue.use(CellGroup);
+Vue.use(Tabs);
+Vue.use(Tab);
+Vue.use(List);
+Vue.use(Cell);
+Vue.use(Tag);
+Vue.use(Stepper);
+Vue.use(GoodsAction);
+Vue.use(GoodsActionButton);
+Vue.use(GoodsActionIcon);
